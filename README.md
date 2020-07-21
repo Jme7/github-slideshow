@@ -1,4 +1,4 @@
-# Your GitHub Learning Lab Repository for Introducing GitHub
+# How to add a slide
 
 Go to posts folder and add 0000-00-[NUMBER OF SLIDE]-{USERNAME}.md for a new slide 
 
